@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(74, 74, 177);
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: rgb(133, 34, 220);
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+.s{
+    font-size: 30px;
+}
+
+.link-header {
+    background-color:rgb(163, 163, 163);
+    color: white;
+    padding: 10px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.link-header:hover{
+    background-color:rgb(74, 74, 177);
+    border: 3px dashed rgb(163, 163, 163);
+}
+
+h1{
+    background-color: rgb(133, 34, 220);
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+.s{
+    font-size: 30px;
+}
+
+.link-header {
+    background-color:rgb(163, 163, 163);
+    color: white;
+    padding: 10px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.link-header:hover{
+    background-color:rgb(74, 74, 177);
+    border: 3px dashed rgb(163, 163, 163);
+}
+
+.link-text{
+    color: white;
+    
+}
+
+h1{
+    background-color: rgb(133, 34, 220);
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+.link-header {
+    background-color:rgb(163, 163, 163);
+    color: white;
+    padding: 10px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.link-header:hover{
+    background-color:rgb(74, 74, 177);
+    border: 3px dashed rgb(163, 163, 163);
+}
+
+.link-nav{
+    background-color:rgb(163, 163, 163);
+    color: white;
+    padding: 5px;
+    text-decoration:none;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+.link-nav:hover{
+    background-color:rgb(74, 74, 177);
+    border: 3px dashed rgb(163, 163, 163);
+}
+
+h1{
+    background-color: rgb(133, 34, 220);
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+.link-header {
+    background-color:rgb(163, 163, 163);
+    color: white;
+    padding: 10px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.link-header:hover{
+    background-color:rgb(74, 74, 177);
+    border: 3px dashed rgb(163, 163, 163);
+}
+
+
+.link-text{
+    color:white;
+}
